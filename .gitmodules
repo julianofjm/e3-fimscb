@@ -1,0 +1,4 @@
+[submodule "fimscb"]
+	path = fimscb
+	url = https://github.com/icshwi/fimscb.git
+	ignore = dirty
